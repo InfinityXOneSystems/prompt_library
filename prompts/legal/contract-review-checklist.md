@@ -24,8 +24,6 @@ Please provide analysis of:
 6. **Red Flags** - Concerning provisions to address
 7. **Compliance Considerations** - Regulatory requirements to verify
 
-**Disclaimer:** This analysis is for informational purposes only and does not constitute legal advice. Consult with a qualified attorney before making legal decisions.
-
 ## Usage
 
 1. Identify the type of contract being reviewed

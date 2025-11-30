@@ -29,8 +29,6 @@ Please provide:
 7. **Recommendations** - Actionable insights
 8. **Forecast Considerations** - Future outlook factors
 
-**Note:** This is for educational purposes. Actual financial decisions should involve qualified financial professionals.
-
 ## Usage
 
 1. Specify the company or entity being analyzed

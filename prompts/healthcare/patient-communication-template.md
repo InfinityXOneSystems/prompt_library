@@ -23,8 +23,6 @@ Please create communication that:
 5. Maintains patient privacy and confidentiality standards
 6. Follows healthcare communication best practices
 
-**Important:** This is for educational/template purposes. Always have medical communications reviewed by qualified healthcare professionals before use.
-
 ## Usage
 
 1. Select the type of communication needed

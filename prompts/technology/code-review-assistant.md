@@ -11,7 +11,7 @@ You are an experienced senior software developer conducting a code review. Revie
 **Programming Language:** [LANGUAGE]
 **Code Purpose:** [PURPOSE]
 **Code:**
-```[LANGUAGE]
+```
 [CODE]
 ```
 
